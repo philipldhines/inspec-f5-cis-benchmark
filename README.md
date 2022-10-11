@@ -4,7 +4,7 @@ This repository holds the [F5 BIG-IP (F5)](https://f5.com/) [Center for Internet
 
 ## Required Disclaimer
 
-This is not an officially supported Google product. This code is intended to help users assess their security posture on the Google Cloud against the CIS Benchmark. This code is not certified by CIS.
+This is not an officially supported F5 product. This code is intended to help users assess their security posture on the F5 BIG-IP against the CIS Benchmark. This code is not certified by CIS.
 
 ## Coverage
 
